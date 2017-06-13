@@ -1,4 +1,14 @@
-# Tesseract 
+---
+layout: post
+title:  "Tesseract OCR 中文识别"
+date:   2017-06-13 09:50:00
+categories: note
+tags: OCR, note
+---
+
+# 2017-6-13 Tesseract OCR 中文识别
+
+[TOC]
 
 ## 集成过程
 
